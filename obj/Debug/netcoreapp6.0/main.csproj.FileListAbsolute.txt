@@ -1,0 +1,15 @@
+/home/runner/Studio-Data-And-Variables-CSharp/bin/Debug/netcoreapp6.0/main
+/home/runner/Studio-Data-And-Variables-CSharp/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Studio-Data-And-Variables-CSharp/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Studio-Data-And-Variables-CSharp/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Studio-Data-And-Variables-CSharp/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Studio-Data-And-Variables-CSharp/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Studio-Data-And-Variables-CSharp/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
